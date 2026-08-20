@@ -1,0 +1,14 @@
+# Clinical and derived datasets must not be committed.
+data/
+output/
+*.sas7bdat
+*.xpt
+*.csv
+*.xlsx
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+.Renviron
+
+
